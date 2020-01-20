@@ -4,7 +4,7 @@
 title: Shane Rodrigues
 
 # Short description of your site
-#description: A personal website dedicated to documenting knowledge and new insights gained!
+description: Personal Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   #Resources:
   # Drop down for a tab e.g resources but within has links to learn markdown, beautiful jekyll etc
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+   # - Learn markdown: "http://www.markdowntutorial.com/"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
