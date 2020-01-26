@@ -6,7 +6,7 @@ title: About me
 
 My name is Shane.
 
-I'm currently a Software Engineer in my 2nd year. I have a passion for all things technology and am keen to share it with you.
+I'm a second year student in Software Engineering. I have a passion for all things technology and am keen to share it with you.
 
 Here's what I'm currently interested in:
 
